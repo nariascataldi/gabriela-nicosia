@@ -29,6 +29,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
   <meta name="description" content="Gabriela Nicosia - Arte en Fieltro Agujado. Cuadros únicos de fieltro con alma andina: paisajes, fauna y flora.">
   <meta name="theme-color" content="#2B7C9E">
   <title>Gabriela Nicosia | Arte en Fieltro Agujado</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🪡</text></svg>">
 
   <!-- Google Fonts import is handled in CSS -->
 
